@@ -32,7 +32,7 @@ Para executar este projeto, é necessário ter o Python 3 e as seguintes bibliot
 1. Clone este repositório:
 
 ```bash
-git clone [https://github.com/seu-usuario/repo-nome.git](https://github.com/leticiafcarvalho/DesafioReducaoDimensionalidade)
+git clone https://github.com/leticiafcarvalho/DesafioReducaoDimensionalidade
 cd repo-nome
 ```
 
